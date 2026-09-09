@@ -7,7 +7,7 @@ Modern HTTP benchmarking tool
 - **Latest release**: `` (n/a)
 - **Last commit**: 2021-02-07
 - **License**: NOASSERTION
-- **Stars**: 40408 · **Forks**: 3034 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 40409 · **Forks**: 3034 · **Open issues**: 0 · **Contributors**: 1
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/wrk> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:06:18Z._
+_Last regenerated: 2026-09-09T19:11:01Z._
