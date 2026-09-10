@@ -12,6 +12,18 @@ Modern HTTP benchmarking tool
 x install wrk
 ```
 
+## Code insight
+
+Total: **4,962** lines of code across **39** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 4,048 | 598 | 851 | 14 |
+| CHeader | 678 | 240 | 143 | 13 |
+| Lua | 154 | 20 | 38 | 10 |
+| Makefile | 82 | 2 | 26 | 1 |
+| Markdown | 0 | 62 | 23 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/wg/wrk>
@@ -30,20 +42,28 @@ x install wrk
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Distribution status
 
-Total: **4,962** lines of code across **39** files in the top 5 languages.
+Reported by **68** distros on [repology.org](https://repology.org/project/wrk). **35** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 4,048 | 598 | 851 | 14 |
-| CHeader | 678 | 240 | 143 | 13 |
-| Lua | 154 | 20 | 38 | 10 |
-| Makefile | 82 | 2 | 26 | 1 |
-| Markdown | 0 | 62 | 23 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.1.0` | ⚠️ outdated |
+| Debian 14 | `4.1.0` | ⚠️ outdated |
+| Debian 13 | `4.1.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `4.1.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.1.0` | ⚠️ outdated |
+| Homebrew | `4.2.0` | ✅ latest |
+| Nix unstable | `4.2.0` | ✅ latest |
+| Void | `4.2.0` | ✅ latest |
+| Alpine edge | `4.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `4.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -54,4 +74,4 @@ Install metadata for wrk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:56:25Z._
