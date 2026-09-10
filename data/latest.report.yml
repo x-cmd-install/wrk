@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:51:02Z
+  collectedAt: 2026-09-10T20:56:19Z
 timeline:
   created: 2012-03-20
   lastCommit: 2021-02-07
@@ -86,7 +86,7 @@ total:
   commit: 80
 ---
 path: /home/runner/.x-repo/github.com/wg/wrk
-collectedAt: 2026-09-10T16:51:07Z
+collectedAt: 2026-09-10T20:56:21Z
 loc:
   C:
     code: 4048
