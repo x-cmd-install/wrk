@@ -31,7 +31,7 @@ x install wrk
 
 ## 流行度
 
-- **Star**: 40,423 · **Fork**: 3,028 · **开放 issue**: 0 · **贡献者**: 1
+- **Star**: 40,422 · **Fork**: 3,028 · **开放 issue**: 0 · **贡献者**: 1
 
 ## 累计统计
 
@@ -41,12 +41,29 @@ x install wrk
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wrk) 上共有 **68** 个发行版报告此项目。**36** 个 ✅ 已是最新上游版本，**31** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `4.1.0` | ⚠️ outdated |
+| Debian 14 | `4.1.0` | ⚠️ outdated |
+| Debian 13 | `4.1.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `4.1.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.1.0` | ⚠️ outdated |
+| Homebrew | `4.2.0` | ✅ latest |
+| Nix unstable | `4.2.0` | ✅ latest |
+| Void | `4.2.0` | ✅ latest |
+| Alpine edge | `4.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `4.2.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -57,4 +74,4 @@ wrk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:54:24Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:58:59Z._
