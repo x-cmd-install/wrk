@@ -41,29 +41,12 @@ Total: **4,962** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Distribution status
-
-Reported by **69** distros on [repology.org](https://repology.org/project/wrk). **36** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.1.0` | ⚠️ outdated |
-| Debian 14 | `4.1.0` | ⚠️ outdated |
-| Debian 13 | `4.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `4.1.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.1.0` | ⚠️ outdated |
-| Homebrew | `4.2.0` | ✅ latest |
-| Nix unstable | `4.2.0` | ✅ latest |
-| Void | `4.2.0` | ✅ latest |
-| Alpine edge | `4.2.0` | ✅ latest |
-| openSUSE Tumbleweed | `4.2.0` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -74,4 +57,4 @@ Install metadata for wrk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:04:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:49:18Z._
